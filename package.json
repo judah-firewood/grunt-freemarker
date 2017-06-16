@@ -1,10 +1,10 @@
 {
   "name": "grunt-freemarker-fork",
   "description": "Freemarker renderer plugin for grunt (forked from ijse/grunt-freemarker)",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/judah-firewood/grunt-freemarker",
   "author": {
-    "name": "Judah Nagler",
+    "name": "Judah Nagler (Firewood)",
     "email": "judah@firewoodmarketing.com",
     "url": "http://www.firewoodmarketing.com"
   },
