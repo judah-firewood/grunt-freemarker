@@ -2,7 +2,7 @@
 
 > Freemarker renderer plugin for grunt (forked from [ijse/grunt-freemarker](https://github.com/ijse/grunt-freemarker)).
 
-[![NPM version](https://badge.fury.io/js/grunt-freemarker.png)](http://badge.fury.io/js/grunt-freemarker)
+[![NPM version](https://badge.fury.io/js/grunt-freemarker-fork.svg)](https://badge.fury.io/js/grunt-freemarker-fork)
 
 ## Getting Started
 This plugin requires Grunt `~0.4.2`
