@@ -1,6 +1,6 @@
 # grunt-freemarker
 
-> Freemarker renderer plugin for grunt.
+> Freemarker renderer plugin for grunt (forked from [ijse/grunt-freemarker](https://github.com/ijse/grunt-freemarker)).
 
 [![NPM version](https://badge.fury.io/js/grunt-freemarker.png)](http://badge.fury.io/js/grunt-freemarker)
 
@@ -102,4 +102,3 @@ _(Nothing yet)_
 
 
 [![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/ijse/grunt-freemarker/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
-
