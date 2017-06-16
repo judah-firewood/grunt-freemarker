@@ -1,23 +1,24 @@
 {
-  "name": "grunt-freemarker",
-  "description": "Freemarker renderer plugin for grunt.",
-  "version": "0.1.7",
-  "homepage": "https://github.com/ijse/grunt-freemarker",
+  "name": "grunt-freemarker-fork",
+  "description": "Freemarker renderer plugin for grunt (forked from ijse/grunt-freemarker)",
+  "version": "0.1.0",
+  "homepage": "https://github.com/judah-firewood/grunt-freemarker",
   "author": {
-    "name": "ijse",
-    "email": "i@ijser.cn"
+    "name": "Judah Nagler",
+    "email": "judah@firewoodmarketing.com",
+    "url": "http://www.firewoodmarketing.com"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/ijse/grunt-freemarker.git"
+    "url": "git://github.com/judah-firewood/grunt-freemarker"
   },
   "bugs": {
-    "url": "https://github.com/ijse/grunt-freemarker/issues"
+    "url": "https://github.com/judah-firewood/grunt-freemarker/issues"
   },
   "licenses": [
     {
       "type": "MIT",
-      "url": "https://github.com/ijse/grunt-freemarker/blob/master/LICENSE-MIT"
+      "url": "https://github.com/judah-firewood/grunt-freemarker/blob/master/LICENSE-MIT"
     }
   ],
   "engines": {
